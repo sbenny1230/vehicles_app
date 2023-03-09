@@ -1,0 +1,23 @@
+{
+    "name": "sbenny1230/vehicles_app",
+    "description": "Vehicles test app",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Susmi Benny",
+            "email": "susmibenny1999@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "SB\\Framework\\": "framework"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.2"
+    },
+    "require": {
+        "symfony/http-foundation": "^6.2"
+    }
+}
