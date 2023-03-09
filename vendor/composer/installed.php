@@ -3,7 +3,7 @@
         'name' => 'sbenny1230/vehicles_app',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '8a7b48590d8b5b3e00e287bd06f07b178b19f246',
+        'reference' => '3bbe45a2c1532b8f5364dbe03e7ff034ee716fb8',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'sbenny1230/vehicles_app' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '8a7b48590d8b5b3e00e287bd06f07b178b19f246',
+            'reference' => '3bbe45a2c1532b8f5364dbe03e7ff034ee716fb8',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
